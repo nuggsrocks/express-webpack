@@ -1,0 +1,17 @@
+{
+  "name": "express-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-webpack-middleware": "github:nuggsrocks/express-webpack-middleware",
+    "morgan": "^1.10.0"
+  }
+}
